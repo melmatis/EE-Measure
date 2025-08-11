@@ -10,11 +10,11 @@ or, you can hard code "yourtoken" directly into the script
 
 ## Step 2: Install Packages
 
-pip install requests
+` pip install requests ` 
 
-pip install pandas
+` pip install pandas `
 
-pip install json
+` pip install json `
 
 ## Step 3: Input the Measure Codes you Want
 
