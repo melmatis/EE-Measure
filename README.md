@@ -15,3 +15,8 @@ pip install pandas
 
 the 
 
+'codes = [
+    "SWWH027/06","SWWH025/09",
+    # add the rest of your codes here …
+]`
+
