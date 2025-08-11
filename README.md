@@ -25,3 +25,7 @@ Input the measure code and version number after `codes =` like in example below:
     # add the rest of your codes here …
 ] `
 
+## Step 4: Analysis
+
+The dataframe of permutations will be here: `measures_df`
+
